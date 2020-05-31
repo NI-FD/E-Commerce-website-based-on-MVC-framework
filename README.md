@@ -36,10 +36,10 @@ This is a simple website with front-end and back-end code, it can run on local. 
 	- ProductDAO.java(Product function interface)
 	- CartDAO.java(Shopping cart function interface)
 	
-- Impl->
-	- CartDAOImpl.java(Implementation of shopping cart function interface)
-	- UserDAOImpl.java(Implementation of user function interface)
-	- ProductDAOImpl.java(Implementation of product function interface)
+	- Impl->
+		- CartDAOImpl.java(Implementation of shopping cart function interface)
+		- UserDAOImpl.java(Implementation of user function interface)
+		- ProductDAOImpl.java(Implementation of product function interface)
 
 - db->
 	- DBConnect.java(Database connection interface)
