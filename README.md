@@ -1,15 +1,15 @@
-# E-Commerce-website-based-on-MVC-framework
+# eCommerce-website-based-on-MVC-framework-and-MySQL
 This is a project three years ago.
 
 ## Induction
-This is a simple website with front-end and back-end code, it can run on local. The project uses Mysql as the database, and it use MVC framework to build the website.
+This is a simple website with front-end and back-end code, it can run on local. The project uses MySQL as the database, and it use MVC framework to build the website.
 
 ## Features
 - Support user login and registration
 - Support real-time product stock change
 - Support shopping cart
 - Support history query
-- All data are stored on the Mysql database
+- All data are stored on the MySQL database
 
 ## Server Logic
 - **Product Display**:Click the corresponding button on the page to browse the names and prices of all products
@@ -57,5 +57,5 @@ This is a simple website with front-end and back-end code, it can run on local. 
 	- Product.java(Store attributes of product detail objects)
 
 ## Run
-- Install and configure Mysql
+- Install and configure MySQL
 - Use Tomcat(or other server to run the website locally)
